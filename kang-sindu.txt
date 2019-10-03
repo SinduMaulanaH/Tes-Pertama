@@ -3,6 +3,8 @@ Sindu Maulana
 -php
 -java
 -c
+-laravel
+-css
 -javascript
 -html
 -python
