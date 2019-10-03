@@ -5,6 +5,9 @@ Sindu Maulana
 *blue gori
 *react
 -c
+-laravel
+-css
 -javascript
-
+*es
+-html
 -python
