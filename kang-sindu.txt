@@ -5,3 +5,4 @@ Sindu Maulana
 -c
 -javascript
 -html
+-python
