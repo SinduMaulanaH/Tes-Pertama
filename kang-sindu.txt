@@ -2,7 +2,9 @@ Sindu Maulana
 
 -php
 -java
+*blue gori
+*react
 -c
 -javascript
--html
+
 -python
